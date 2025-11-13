@@ -41,3 +41,5 @@ your study data should be portable. no vendor lock-in. plain text > binary blobs
 spec: [flashcard-protocol.org/spec](https://flashcard-protocol.org/spec)
 
 CC0 Public Domain
+
+# PR Update: 2025-11-01 07:17:16
